@@ -1,0 +1,1 @@
+my_bucket_1="new-tfvars-bucket"
